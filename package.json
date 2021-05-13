@@ -1,0 +1,14 @@
+{
+  "name": "proyectonodejs",
+  "version": "1.0.0",
+  "description": "Proyecto de IoT con MongoDB",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriela Gramillo",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.12.9"
+  }
+}
